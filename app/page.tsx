@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div className="min-h-screen flex items-center justify-center p-8 bg-gradient-to-br from-slate-900 to-slate-800">
+    <div className="h-screen flex items-center justify-center p-4 bg-gradient-to-br from-slate-900 to-slate-800 overflow-hidden">
       <main className="max-w-2xl text-center text-slate-400">
         <h1 className="text-5xl font-bold  mb-8">
           YAZILIM-SEN
